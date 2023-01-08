@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONDataManagement", "JSONDataManagement.csproj", "{81469FA7-5ECE-4337-AE29-5C57ACC44A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81469FA7-5ECE-4337-AE29-5C57ACC44A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81469FA7-5ECE-4337-AE29-5C57ACC44A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81469FA7-5ECE-4337-AE29-5C57ACC44A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81469FA7-5ECE-4337-AE29-5C57ACC44A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF7B5D90-FEA3-42C5-BE0C-08D5FAE97AEC}
+	EndGlobalSection
+EndGlobal
